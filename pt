@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/Uw59U1HM"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+print("PrimeTime Beta has been loaded. The external program will make converting easier.")
